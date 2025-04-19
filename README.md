@@ -36,7 +36,7 @@ npm run dev
 ## الرابط
 
 يمكن الوصول إلى النسخة المستضافة من التطبيق على:
-[نظام إدارة الطلبات](https://order-managment-system-frontend.vercel.app/)
+[نظام إدارة الطلبات](https://order-managment-system-7s4pwye9h-adriano125s-projects.vercel.app/)
 
 ## الخادم الخلفي
 
